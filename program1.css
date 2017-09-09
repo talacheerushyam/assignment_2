@@ -1,0 +1,252 @@
+@charset "utf-8";
+
+
+/* CSS code for recipe.html starts from below */
+.recipeBody{
+	background-color:#FFCC00;
+	font:normal;
+	font-family:Georgia, Garamond,sans-serif;
+}
+
+h1, h2{
+	color : #A4A400;
+	background-color:#F0F0F0;
+	text-align: center;
+	font-family:Century Gothic, Futura, Verdana,sans-serif;
+}
+
+.homePageUl {
+    list-style-type: none;
+}
+
+.homePageLi {
+    display: inline;
+    color : #F0F0F0;
+	text-align:center;
+	background-color:#EEE8AA; 
+    border-right: 15px solid #003366;
+    padding:7px 20px;
+ 	width:100px;
+}
+
+.menuLink{
+	color:#6E1B56;
+}
+.menuLink:link {
+    text-decoration: none;
+}
+
+.menuLink:visited {
+    text-decoration: none;
+}
+
+.menuLink:hover {
+    text-decoration: underline;
+}
+.menuLink:active {
+    text-decoration: underline;
+}
+
+.imageDiv{
+	margin-top: 20px;
+	text-align: left;
+}
+
+.prepDiv, .ingredDiv{
+	margin-top: 20px;
+	font-weight: bold;
+}
+
+span{
+	font-weight: normal;
+}
+.directionDiv{
+	list-style-type: decimal;
+}
+
+.ratingDiv{
+	margin-top: 20px;	
+}
+
+.readLink{
+	color:#6E1B56;
+}
+
+.captionTable{
+	color : #A4A400;
+	background-color:#F0F0F0;
+	text-align: center;
+	font-family:Century Gothic, Futura, Verdana,sans-serif;
+	font-weight: bold;
+	padding:5px 5px 5px 5px;
+	margin-bottom: -1px;
+}
+
+table{
+	background-color: #CC9933;
+	color:#FFFFFF;
+	margin-top: 20px; 
+	border-collapse: collapse;
+}
+
+th{
+	background-color: #003366;
+	color:white;
+	text-align: center;
+}
+
+table, td, th {
+    border: 2px solid white;
+    padding:5px 5px 5px 5px;
+}
+
+.lastDiv{
+	font-weight: bold;
+	margin-top: 20px;
+	text-align: left;
+}
+
+span{
+	font-weight: normal;
+}
+
+/* CSS code for recipe.html ends till here */
+
+
+/* CSS code for program1.html starts from here */
+
+.pro1Body{
+	background-image:url("pics/images-2.png");
+	background-repeat:repeat;
+	background-attachment:fixed;
+	font:normal;
+	font-family:Georgia, Garamond,sans-serif;
+}
+
+.pro1H1{
+	color :dimgray;
+	background-color:#F0F0F0;
+	text-align: center;
+	font-family:Century Gothic, Futura, Verdana,sans-serif;
+}
+
+.pro1Ul {
+    list-style-type: none;
+}
+
+.pro1Li {
+    display: inline;
+    color : #F0F0F0;
+	text-align:center;
+	background-color:#EEE8AA; 
+    border-right: 15px solid #003366;
+    padding:7px 20px;
+ 	width:100px;
+}
+
+.pro1MenuLink{
+	color:#6E1B56;
+}
+.pro1MenuLink:link {
+    text-decoration: none;
+}
+
+.pro1MenuLink:visited {
+    text-decoration: none;
+}
+
+.pro1MenuLink:hover {
+    text-decoration: underline;
+}
+.pro1MenuLink:active {
+    text-decoration: underline;
+}
+
+.introductionDiv{
+	margin-top: 20px;
+	text-align: justify;
+	letter-spacing: .5px;
+}
+
+.homePageImage{
+	border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    float: right;
+    margin: 0 0 10px 10px;
+    width: 500px;
+    height: 250px;
+}
+
+.imageDiv{
+	width:600px;
+}
+.imageTextDiv{
+	
+	bottom:0; 
+	font-size:24px; 
+	font-family:"vedana"; 
+ 	padding:10px 20px; 
+ 	width:93%; 
+ 	text-align:right;
+ }
+
+.recipesHeading{
+	text-align: left;
+	margin-top: 20px;
+	color : #A4A400;
+	background-color:#F0F0F0;
+	font-weight: bold;
+	height: 35px;
+	font-size:26px; 
+	vertical-align: middle; 
+}
+
+
+.UL{
+	margin-top:20px;
+	list-style-image: url("pics/foodIcon.png");
+}
+
+.LI{
+	height:100px;
+	width:600px;
+	vertical-align: middle
+}
+
+.liImage{
+    
+    width:100px;
+	height:50px;
+}
+
+.liA{
+	color:black;
+}
+.liA:link {
+    text-decoration:none;
+}
+
+.liA:visited {
+    text-decoration: none;
+}
+
+.liA:hover {
+    text-decoration: underline;
+}
+.liA:active {
+    text-decoration: underline;
+}
+
+
+footer{
+    float: right;
+	font-size: 12px;
+}
+
+
+/* END of CSS code for program1.html */
+
+
+
+

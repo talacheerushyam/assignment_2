@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+/* CSS code for pie.html starts from here */
+
+body{
+	background-image:url("pics/images.png");
+	background-repeat:repeat;
+	background-attachment:fixed;
+	font:normal;
+	font-family:Georgia, Garamond,sans-serif;
+}
+
+.pieH1{
+	color : #A4A400;
+	background-color:#F0F0F0;
+	text-align: center;
+	font-family:Century Gothic, Futura, Verdana,sans-serif;
+	letter-spacing: 3px;
+}
+
+.pieUl {
+    list-style-type: none;
+}
+
+.pieLi {
+    display: inline;
+    color : #F0F0F0;
+	text-align:center;
+	background-color:#EEE8AA; 
+    border-right: 15px solid #003366;
+    padding:7px 20px;
+ 	width:100px;
+}
+
+.pieMenuLink{
+	color:#6E1B56;
+}
+.pieMenuLink:link {
+    text-decoration: none;
+}
+
+.pieMenuLink:visited {
+    text-decoration: none;
+}
+
+.pieMenuLink:hover {
+    text-decoration: underline;
+}
+.pieMenuLink:active {
+    text-decoration: underline;
+}
+
+.textDiv{
+	margin-top: 20px;	
+}
+
+.imageDiv{
+	margin-top: 20px;	
+}
+
+.prepDiv{
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+.pieSpan{
+	font-size: 10px;
+	font-weight: normal;
+}
+
+.ingredDiv, .dirDiv{
+	color : #A4A400;
+	background-color:#F0F0F0;
+	text-align: left;
+	font-family:Century Gothic, Futura, Verdana,sans-serif;
+	text-decoration: underline;
+	font-size: 30px;
+	letter-spacing: 3px;
+}
+
+.ingredListDiv{
+	margin-top: 20px;	
+}
+
+.orderList{
+	list-style-type:"1";
+	font-size: medium;
+}
+
+.spanDir{
+	font-weight: bold;
+}
+
+.increaseFontSize{
+	font-size:large;
+}
+
+
+footer{
+	text-align: center;
+	font-size: 10px;
+}
+
+
+
+
+/* CSS code for pie.html ends till here*/
+
+
+
